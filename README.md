@@ -1,4 +1,4 @@
-# Frontent 
+# Frontend 
 This is a simple React app that lets you filter and compare bank accounts from different providers.
 
 ## Getting Started
